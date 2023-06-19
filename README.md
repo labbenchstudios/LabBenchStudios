@@ -9,6 +9,7 @@ I maintain a website and blog at [labbenchstudios.com](https://labbenchstudios.c
 My latest book, [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), is also available in e-book and print format. See [my book's website](https://labbenchstudios.com/programming-the-iot-book/) for more details, including helpful hints, clarifications, and book errata.
 
 ### 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
@@ -19,27 +20,28 @@ My latest book, [Programming the Internet of Things](https://learning.oreilly.co
 ### &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/LabBenchStudios/LabBenchStudios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LabBenchStudios&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LabBenchStudios&layout=compact&langs_count=10&show_icons=true&line_height=27&count_private=true&include_orgs=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="LabBenchStudios' GitHub Stats" />
+</a>
+<a href="https://github.com/LabBenchStudios/LabBenchStudios">
+  <img align="center" height="200" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=LabBenchStudios&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true" />
 </a>
 
-<a href="https://github.com/LabBenchStudios/LabBenchStudios">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LabBenchStudios&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="LabBenchStudios' GitHub Stats" />
-</a>
+<p></p>
+
+#### Programming the Internet of Things Repos
 
 <a href="https://github.com/orgs/programming-the-iot/projects/1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-tasks&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-tasks&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 <a href="https://github.com/programming-the-iot/book-exercise-docs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-docs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-docs&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
+<p></p>
 <a href="https://github.com/programming-the-iot/python-components">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programming-the-iot&repo=python-components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=python-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-
 <a href="https://github.com/programming-the-iot/java-components">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=programming-the-iot&repo=java-components&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=java-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
