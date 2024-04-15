@@ -2,6 +2,12 @@
 
 Thanks for checking out my GitHub profile page. Check out the sections below to learn more about some of the projects I'm working on.
 
+### &#x270d; GitHub Projects
+
+I teach two courses at Northeastern University: Connected Devices and Building Digital Twins. Both courses include extensive hands-on development described in their respective Kanban Boards:
+- [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
+- [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
+
 ### &#x270d; Writing
 
 I maintain a website and blog at [labbenchstudios.com](https://labbenchstudios.com), where you can read about the Internet of Things (IoT) and other technology and education projects.
@@ -33,15 +39,28 @@ My latest book, [Programming the Internet of Things](https://learning.oreilly.co
 <a href="https://github.com/orgs/programming-the-iot/projects/1">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-tasks&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/programming-the-iot/book-exercise-docs">
-  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-docs&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 <p></p>
 <a href="https://github.com/programming-the-iot/python-components">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=python-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/programming-the-iot/java-components">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=java-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+#### Programming Digital Twins Repos
+
+<a href="https://github.com/orgs/programming-digital-twins/projects/1">
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-exercise-tasks&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<p></p>
+<a href="https://github.com/programming-digital-twins/pdt-edge-components">
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-edge-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/programming-digital-twins/pdt-cfw-components">
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-cfw-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/programming-digital-twins/pdt-unity-components">
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-unity-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
