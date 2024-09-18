@@ -36,7 +36,7 @@ My latest book, [Programming the Internet of Things](https://learning.oreilly.co
 
 #### Programming the Internet of Things Repos
 
-<a href="https://github.com/orgs/programming-the-iot/projects/1">
+<a href="https://github.com/orgs/programming-the-iot/projects/5">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-the-iot&repo=book-exercise-tasks&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <p></p>
