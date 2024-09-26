@@ -5,7 +5,7 @@ Thanks for checking out my GitHub profile page. Check out the sections below to 
 ### &#x270d; GitHub Projects
 
 I teach two courses at Northeastern University: Connected Devices and Building Digital Twins. Both courses include extensive hands-on development described in their respective Kanban Boards:
-- [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/1)
+- [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/5)
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
 ### &#x270d; Writing
