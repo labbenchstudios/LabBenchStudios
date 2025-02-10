@@ -52,6 +52,9 @@ My latest book, [Programming the Internet of Things](https://learning.oreilly.co
 <a href="https://github.com/orgs/programming-digital-twins/projects/1">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-exercise-tasks&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+<a href="https://github.com/programming-digital-twins/pdt-exercise-docs)">
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-exercise-docs&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 <p></p>
 <a href="https://github.com/programming-digital-twins/pdt-edge-components">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-edge-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -59,8 +62,8 @@ My latest book, [Programming the Internet of Things](https://learning.oreilly.co
 <a href="https://github.com/programming-digital-twins/pdt-cfw-components">
   <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-cfw-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/programming-digital-twins/pdt-unity-components">
-  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=pdt-unity-components&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/programming-digital-twins/LabBenchStudios-PDT-Unity)">
+  <img align="center" height="180" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=programming-digital-twins&repo=LabBenchStudios-PDT-Unity&layout=compact&langs_count=10&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->
