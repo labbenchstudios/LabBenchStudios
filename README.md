@@ -1,18 +1,18 @@
 ## Hey! 👋
 
-Thanks for checking out my GitHub profile page. Check out the sections below to learn more about some of the projects I'm working on.
+Thanks for stopping by Lab Bench Studios' GitHub landing page. Check out the sections below to learn more about some of the projects I'm working on.
 
 ### &#x270d; GitHub Projects
 
-I teach two courses at Northeastern University: Connected Devices and Building Digital Twins. Both courses include extensive hands-on development described in their respective Kanban Boards:
+Two projects are managed as sub-organizations here on the site, both of which serve as the baseline lab work for the two courses founder Andy King teaches at Northeastern University: Connected Devices and Building Digital Twins. Both courses include extensive hands-on development described in their respective Kanban Boards:
 - [Programming the IoT Kanban Board](https://github.com/orgs/programming-the-iot/projects/5)
 - [Programming Digital Twins Kanban Board](https://github.com/orgs/programming-digital-twins/projects/1)
 
 ### &#x270d; Writing
 
-I maintain a website and blog at [labbenchstudios.com](https://labbenchstudios.com), where you can read about the Internet of Things (IoT) and other technology and education projects.
+You can check out the Lab Bench Studios website and blog at [labbenchstudios.com](https://labbenchstudios.com), where you can read about the Internet of Things (IoT) and other technology and education projects.
 
-My latest book, [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), is also available in e-book and print format. See [my book's website](https://labbenchstudios.com/programming-the-iot-book/) for more details, including helpful hints, clarifications, and book errata.
+Andy King's latest book, [Programming the Internet of Things](https://learning.oreilly.com/library/view/programming-the-internet/9781492081401/), is available in e-book and print format in multiple languages. See [the book's website](https://labbenchstudios.com/programming-the-iot-book/) for more details, including helpful hints, clarifications, and book errata.
 
 ### 🔧 Technologies & Tools
 
